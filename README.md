@@ -2,7 +2,7 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/langka4/pepek
+$ git clone https://github.com/langk4/pepek
 
 $ pip install requests bs4 cowsay
 
